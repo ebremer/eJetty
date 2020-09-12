@@ -49,7 +49,7 @@
           <shadedArtifactAttached>false</shadedArtifactAttached>
           <transformers>
             <transformer>
-              <mainClass>com.mycompany.ejetty.Start</mainClass>
+              <mainClass>com.bugland.ejetty.Start</mainClass>
               <manifestEntries>
                 <Multi-Release>true</Multi-Release>
               </manifestEntries>
